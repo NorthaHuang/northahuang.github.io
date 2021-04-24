@@ -2397,25 +2397,23 @@ This is **box** shortcode
 </nav>
     
   
-    <div id="comments-gitment"></div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/theme-next/theme-next-gitment@1/default.min.css" crossorigin="anonymous">
-<script src="https://cdn.jsdelivr.net/gh/theme-next/theme-next-gitment@1/gitment.browser.min.js" crossorigin="anonymous"></script>
-<script type="text/javascript">
-  var gitment = new Gitment({
+    <div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js" crossorigin="anonymous"></script>
+<script>
+  var gitalk = new Gitalk({
     id: '2020-01-25 06:40:51 \u002b0900 \u002b0900',
     title: 'Shortcodes',
-    link: decodeURI(location.href),
-    desc: 'Markdownify box This is boxmd shortcode Simple box This is **box** shortcode  Code tabs Make it easy to switch between different code\njava javascript  1  System.out.println(\u0026#39;Hello World!\u0026#39;);     1  console.log(\u0026#39;Hello World!\u0026#39;);       \u0027use strict\u0027; var containerId = JSON.parse(\u0022\\\u0022d96f892eb0443615\\\u0022\u0022); var containerElem = document.getElementById(containerId); var codetabLinks = null; var codetabContents = null; var ids = []; if (containerElem) { codetabLinks = containerElem.',
-    owner: 'NorthaHuang',
+    clientID: 'b5a28cbb150878927054',
+    clientSecret: '349c09aaba9b1d59af24448e1959e4b06d08c194',
     repo: 'northahuang.github.io',
-    oauth: {
-      client_id: 'b5a28cbb150878927054',
-      client_secret: '349c09aaba9b1d59af24448e1959e4b06d08c194'
-    }
+    owner: 'NorthaHuang',
+    admin: ['NorthaHuang'],
+    body: decodeURI(location.href)
   });
-  gitment.render('comments-gitment');
+  gitalk.render('gitalk-container');
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://github.com/imsun/gitment">comments powered by gitment.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/gitalk/gitalk">comments powered by gitalk.</a></noscript>
   
 
     <div class="modal micromodal-slide" id="modal" aria-hidden="true">
