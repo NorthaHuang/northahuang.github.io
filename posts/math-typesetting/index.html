@@ -2192,23 +2192,25 @@ $$</p>
 </nav>
     
   
-    <div id="gitalk-container"></div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css" crossorigin="anonymous">
-<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js" crossorigin="anonymous"></script>
-<script>
-  var gitalk = new Gitalk({
+    <div id="comments-gitment"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/theme-next/theme-next-gitment@1/default.min.css" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/gh/theme-next/theme-next-gitment@1/gitment.browser.min.js" crossorigin="anonymous"></script>
+<script type="text/javascript">
+  var gitment = new Gitment({
     id: '2019-12-17 12:00:06 \u002b0900 \u002b0900',
     title: 'Math Typesetting',
-    clientID: 'b5a28cbb150878927054',
-    clientSecret: '349c09aaba9b1d59af24448e1959e4b06d08c194',
-    repo: 'northahuang.github.io',
+    link: decodeURI(location.href),
+    desc: '\u003cdiv class=\u0022box\u0022\u003e\nWe need goldmark katex entension which is not yet we have: \n[https:\/\/github.com\/gohugoio\/hugo\/issues\/6544](https:\/\/github.com\/gohugoio\/hugo\/issues\/6544)\n\u003c\/div\u003e\n\u003cp\u003eMathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.\u003c\/p\u003e',
     owner: 'NorthaHuang',
-    admin: ['NorthaHuang'],
-    body: decodeURI(location.href)
+    repo: 'northahuang',
+    oauth: {
+      client_id: 'b5a28cbb150878927054',
+      client_secret: '349c09aaba9b1d59af24448e1959e4b06d08c194'
+    }
   });
-  gitalk.render('gitalk-container');
+  gitment.render('comments-gitment');
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://github.com/gitalk/gitalk">comments powered by gitalk.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/imsun/gitment">comments powered by gitment.</a></noscript>
   
 
     <div class="modal micromodal-slide" id="modal" aria-hidden="true">
