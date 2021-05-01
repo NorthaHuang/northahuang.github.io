@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>SSG on 刻版印象</title>
-    <link>https://northahuang.github.io/tags/ssg/</link>
-    <description>Recent content in SSG on 刻版印象</description>
+    <title>Tech on 刻版印象</title>
+    <link>https://northahuang.github.io/categories/tech/</link>
+    <description>Recent content in Tech on 刻版印象</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>sonic800122@gmail.com (小北)</managingEditor>
@@ -17,7 +17,7 @@
     <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://northahuang.github.io/tags/ssg/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://northahuang.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
 
       
