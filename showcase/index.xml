@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Showcase overview on Northa&#39;s Blog</title>
+    <title>小北作品集 on 刻版印象</title>
     <link>https://northahuang.github.io/showcase/</link>
-    <description>Recent content in Showcase overview on Northa&#39;s Blog</description>
+    <description>Recent content in 小北作品集 on 刻版印象</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>sonic800122@gmail.com (Northa)</managingEditor>
-    <webMaster>sonic800122@gmail.com (Northa)</webMaster>
+    <managingEditor>sonic800122@gmail.com (小北)</managingEditor>
+    <webMaster>sonic800122@gmail.com (小北)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 19 Jan 2020 15:43:38 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://northahuang.github.io/showcase/index.xml" rel="self" type="application/rss+xml" />
@@ -22,15 +22,15 @@
 
       
       <item>
-        <title>Hugo</title>
-        <link>https://northahuang.github.io/showcase/hugo/</link>
-        <pubDate>Sun, 19 Jan 2020 21:04:11 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        <atom:modified>Sun, 19 Jan 2020 21:04:11 +0900</atom:modified>
-        <guid>https://northahuang.github.io/showcase/hugo/</guid>
+        <title>才式創意</title>
+        <link>https://northahuang.github.io/showcase/greatone/</link>
+        <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+        <author>sonic800122@gmail.com (小北)</author>
+        <atom:modified>Fri, 30 Apr 2021 00:00:00 +0000</atom:modified>
+        <guid>https://northahuang.github.io/showcase/greatone/</guid>
         <description></description>
         
-        <dc:creator>Northa</dc:creator>
+        <dc:creator>小北</dc:creator>
         
         
         

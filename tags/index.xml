@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Tags on Northa&#39;s Blog</title>
+    <title>Tags on 刻版印象</title>
     <link>https://northahuang.github.io/tags/</link>
-    <description>Recent content in Tags on Northa&#39;s Blog</description>
+    <description>Recent content in Tags on 刻版印象</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>sonic800122@gmail.com (Northa)</managingEditor>
-    <webMaster>sonic800122@gmail.com (Northa)</webMaster>
+    <managingEditor>sonic800122@gmail.com (小北)</managingEditor>
+    <webMaster>sonic800122@gmail.com (小北)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://northahuang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -22,15 +22,15 @@
 
       
       <item>
-        <title>shortcode</title>
-        <link>https://northahuang.github.io/tags/shortcode/</link>
-        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
+        <title>GitHub Pages</title>
+        <link>https://northahuang.github.io/tags/github-pages/</link>
+        <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+        <author>sonic800122@gmail.com (小北)</author>
         
-        <guid>https://northahuang.github.io/tags/shortcode/</guid>
+        <guid>https://northahuang.github.io/tags/github-pages/</guid>
         <description></description>
         
-        <dc:creator>Northa</dc:creator>
+        <dc:creator>小北</dc:creator>
         
         
         
@@ -40,123 +40,15 @@
       </item>
       
       <item>
-        <title>css</title>
-        <link>https://northahuang.github.io/tags/css/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/tags/css/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>html</title>
-        <link>https://northahuang.github.io/tags/html/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/tags/html/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>markdown</title>
-        <link>https://northahuang.github.io/tags/markdown/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/tags/markdown/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>themes</title>
-        <link>https://northahuang.github.io/tags/themes/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/tags/themes/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>privacy</title>
-        <link>https://northahuang.github.io/tags/privacy/</link>
-        <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/tags/privacy/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>shortcodes</title>
-        <link>https://northahuang.github.io/tags/shortcodes/</link>
-        <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/tags/shortcodes/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>hugo</title>
+        <title>HUGO</title>
         <link>https://northahuang.github.io/tags/hugo/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
+        <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+        <author>sonic800122@gmail.com (小北)</author>
         
         <guid>https://northahuang.github.io/tags/hugo/</guid>
         <description></description>
         
-        <dc:creator>Northa</dc:creator>
+        <dc:creator>小北</dc:creator>
         
         
         
@@ -166,123 +58,15 @@
       </item>
       
       <item>
-        <title>amoji</title>
-        <link>https://northahuang.github.io/tags/amoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
+        <title>SSG</title>
+        <link>https://northahuang.github.io/tags/ssg/</link>
+        <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+        <author>sonic800122@gmail.com (小北)</author>
         
-        <guid>https://northahuang.github.io/tags/amoji/</guid>
+        <guid>https://northahuang.github.io/tags/ssg/</guid>
         <description></description>
         
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>bamoji</title>
-        <link>https://northahuang.github.io/tags/bamoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/tags/bamoji/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>emoji</title>
-        <link>https://northahuang.github.io/tags/emoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/tags/emoji/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>gamoji</title>
-        <link>https://northahuang.github.io/tags/gamoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/tags/gamoji/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>namoji</title>
-        <link>https://northahuang.github.io/tags/namoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/tags/namoji/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>diagram</title>
-        <link>https://northahuang.github.io/tags/diagram/</link>
-        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/tags/diagram/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>index</title>
-        <link>https://northahuang.github.io/tags/index/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/tags/index/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
+        <dc:creator>小北</dc:creator>
         
         
         

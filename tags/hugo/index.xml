@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>hugo on Northa&#39;s Blog</title>
+    <title>HUGO on 刻版印象</title>
     <link>https://northahuang.github.io/tags/hugo/</link>
-    <description>Recent content in hugo on Northa&#39;s Blog</description>
+    <description>Recent content in HUGO on 刻版印象</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>sonic800122@gmail.com (Northa)</managingEditor>
-    <webMaster>sonic800122@gmail.com (Northa)</webMaster>
+    <managingEditor>sonic800122@gmail.com (小北)</managingEditor>
+    <webMaster>sonic800122@gmail.com (小北)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 18 Dec 2019 10:33:41 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://northahuang.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
@@ -22,34 +22,44 @@
 
       
       <item>
-        <title>Syntax highlighting</title>
-        <link>https://northahuang.github.io/posts/syntax-highlight/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
-        <guid>https://northahuang.github.io/posts/syntax-highlight/</guid>
-        <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
+        <title>架設 HUGO 部落格在 GitHub Pages</title>
+        <link>https://northahuang.github.io/posts/build-hugo-on-github-pages/</link>
+        <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+        <author>sonic800122@gmail.com (小北)</author>
+        <atom:modified>Sat, 24 Apr 2021 00:00:00 +0000</atom:modified>
+        <guid>https://northahuang.github.io/posts/build-hugo-on-github-pages/</guid>
+        <description>記得今年初就計畫好在 GCP 上使用 Next.js 作為 MetaFramework 來架設個人部落格，並且建設後台，透過 GraphQL 串連到 MongoDB&amp;hellip; 等等多功能的中小型企劃；後來花了三個月的時間來學習上述陌生</description>
         
-        <dc:creator>Jeus</dc:creator>
-        <media:content url="https://northahuang.github.ioimages/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>小北</dc:creator>
+        <media:content url="https://northahuang.github.io/images/hugo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
-        
-        
-          
-            
-              <category>hugo</category>
-            
-          
         
         
           
             
-              <category>hugo</category>
+              <category>HUGO</category>
+            
+          
+            
+              <category>SSG</category>
+            
+          
+            
+              <category>GitHub Pages</category>
             
           
         
         
           
+            
+              <category>技術文</category>
+            
+          
+        
+        
+          
+            
+              <category>HUGO</category>
             
           
         

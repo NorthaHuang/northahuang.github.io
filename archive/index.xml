@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Archive on Northa&#39;s Blog</title>
+    <title>歸檔 on 刻版印象</title>
     <link>https://northahuang.github.io/archive/</link>
-    <description>Recent content in Archive on Northa&#39;s Blog</description>
+    <description>Recent content in 歸檔 on 刻版印象</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>sonic800122@gmail.com (Northa)</managingEditor>
-    <webMaster>sonic800122@gmail.com (Northa)</webMaster>
+    <managingEditor>sonic800122@gmail.com (小北)</managingEditor>
+    <webMaster>sonic800122@gmail.com (小北)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://northahuang.github.io/archive/index.xml" rel="self" type="application/rss+xml" />

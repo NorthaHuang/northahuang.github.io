@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Categories on Northa&#39;s Blog</title>
+    <title>Categories on 刻版印象</title>
     <link>https://northahuang.github.io/categories/</link>
-    <description>Recent content in Categories on Northa&#39;s Blog</description>
+    <description>Recent content in Categories on 刻版印象</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>sonic800122@gmail.com (Northa)</managingEditor>
-    <webMaster>sonic800122@gmail.com (Northa)</webMaster>
+    <managingEditor>sonic800122@gmail.com (小北)</managingEditor>
+    <webMaster>sonic800122@gmail.com (小北)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://northahuang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -22,87 +22,15 @@
 
       
       <item>
-        <title>syntax</title>
-        <link>https://northahuang.github.io/categories/syntax/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
+        <title>技術文</title>
+        <link>https://northahuang.github.io/categories/%E6%8A%80%E8%A1%93%E6%96%87/</link>
+        <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+        <author>sonic800122@gmail.com (小北)</author>
         
-        <guid>https://northahuang.github.io/categories/syntax/</guid>
+        <guid>https://northahuang.github.io/categories/%E6%8A%80%E8%A1%93%E6%96%87/</guid>
         <description></description>
         
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>themes</title>
-        <link>https://northahuang.github.io/categories/themes/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/categories/themes/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>hugo</title>
-        <link>https://northahuang.github.io/categories/hugo/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/categories/hugo/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>diagram</title>
-        <link>https://northahuang.github.io/categories/diagram/</link>
-        <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/categories/diagram/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>math</title>
-        <link>https://northahuang.github.io/categories/math/</link>
-        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
-        <author>sonic800122@gmail.com (Northa)</author>
-        
-        <guid>https://northahuang.github.io/categories/math/</guid>
-        <description></description>
-        
-        <dc:creator>Northa</dc:creator>
+        <dc:creator>小北</dc:creator>
         
         
         
